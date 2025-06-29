@@ -89,8 +89,3 @@ login_red_rojo/
 └── README.md
 ```
 ---
-
-
-## 🔗 Enlace al proyecto
-
-[https://github.com/tu-usuario/nombre-del-repo](https://github.com/tu-usuario/nombre-del-repo)
