@@ -1,27 +1,26 @@
-# 🔐 Login y Registro con Django (Diseño Rojo Pastel)
+# 🔐 Login y Registro con Django
 
-Proyecto sencillo de autenticación de usuarios en Django con un diseño limpio y minimalista basado en tonos rojos pastel.
+Proyecto sencillo de autenticación de usuarios en Django.
 
 ## 🎨 Características
 
 - Registro de usuarios con validación de contraseña
 - Inicio y cierre de sesión
 - Redirecciones seguras según el estado de sesión
-- Interfaz visual suave y accesible
-- Código limpio y modular con buenas prácticas
 
----
-
-## 🖼️ Capturas de Pantalla
 
 ### Página de registro
-![Registro](https://url-de-tu-captura.com/registro.png)
+![image](https://github.com/user-attachments/assets/dc1916f1-a835-45c3-8656-870ef4a89459)
+
+
 
 ### Página de inicio de sesión
-![Login](https://url-de-tu-captura.com/login.png)
+![image](https://github.com/user-attachments/assets/a0821bcd-7167-4ec7-a05c-4119d3052901)
+
 
 ### Página principal después del login
-![Inicio](https://url-de-tu-captura.com/home.png)
+![image](https://github.com/user-attachments/assets/fad58a5b-1cc1-42dc-b90c-3c4fd190361d)
+
 
 ---
 
@@ -30,8 +29,8 @@ Proyecto sencillo de autenticación de usuarios en Django con un diseño limpio 
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/ArmandoEstradaCM79/Tarea8.git
+cd Tarea8
 ```
 
 ### 2. Crear entorno virtual e instalar dependencias
@@ -89,39 +88,8 @@ login_red_rojo/
 ├── manage.py
 └── README.md
 ```
-
 ---
 
-## 🛡️ Recomendaciones
-
-- Usa `python-decouple` para manejar `SECRET_KEY` en producción.
-- Usa `LOGIN_URL`, `LOGIN_REDIRECT_URL`, y `LOGOUT_REDIRECT_URL` para gestionar rutas de autenticación.
-- Si vas a desplegar en la web, usa HTTPS y configura CSRF correctamente.
-
----
-
-## 📚 Requisitos
-
-- Python 3.8+
-- Django 5.x
-- Navegador moderno
-
----
-
-## 📌 Autor
-
-Desarrollado como práctica de integración de Django con diseño minimalista.
-
-**Repositorio original del diseño base**: _Este proyecto es de uso libre y educativo._
-
----
-
-## ✨ Personaliza
-
-- Cambia los colores en `static/style.css`
-- Modifica los formularios con Bootstrap o Tailwind si deseas más estilo
-
----
 
 ## 🔗 Enlace al proyecto
 
